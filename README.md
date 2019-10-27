@@ -1,2 +1,2 @@
 # LinearRegression
-Programming a linear regression model with Python and Numpy without the use of machine learning libraries
+Programming a linear regression model with Python and Numpy and not using any machine learning libraries
